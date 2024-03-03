@@ -1,0 +1,15 @@
+C:\Users\marco\Desktop\Marco\GitHub\Entendendo Algoritmos\Introdução a algoritmos\Pesquisa Binaria\bin\Debug\net9.0\Pesquisa Binaria.exe
+C:\Users\marco\Desktop\Marco\GitHub\Entendendo Algoritmos\Introdução a algoritmos\Pesquisa Binaria\bin\Debug\net9.0\Pesquisa Binaria.deps.json
+C:\Users\marco\Desktop\Marco\GitHub\Entendendo Algoritmos\Introdução a algoritmos\Pesquisa Binaria\bin\Debug\net9.0\Pesquisa Binaria.runtimeconfig.json
+C:\Users\marco\Desktop\Marco\GitHub\Entendendo Algoritmos\Introdução a algoritmos\Pesquisa Binaria\bin\Debug\net9.0\Pesquisa Binaria.dll
+C:\Users\marco\Desktop\Marco\GitHub\Entendendo Algoritmos\Introdução a algoritmos\Pesquisa Binaria\bin\Debug\net9.0\Pesquisa Binaria.pdb
+C:\Users\marco\Desktop\Marco\GitHub\Entendendo Algoritmos\Introdução a algoritmos\Pesquisa Binaria\obj\Debug\net9.0\Pesquisa Binaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\Desktop\Marco\GitHub\Entendendo Algoritmos\Introdução a algoritmos\Pesquisa Binaria\obj\Debug\net9.0\Pesquisa Binaria.AssemblyInfoInputs.cache
+C:\Users\marco\Desktop\Marco\GitHub\Entendendo Algoritmos\Introdução a algoritmos\Pesquisa Binaria\obj\Debug\net9.0\Pesquisa Binaria.AssemblyInfo.cs
+C:\Users\marco\Desktop\Marco\GitHub\Entendendo Algoritmos\Introdução a algoritmos\Pesquisa Binaria\obj\Debug\net9.0\Pesquisa Binaria.csproj.CoreCompileInputs.cache
+C:\Users\marco\Desktop\Marco\GitHub\Entendendo Algoritmos\Introdução a algoritmos\Pesquisa Binaria\obj\Debug\net9.0\Pesquisa Binaria.sourcelink.json
+C:\Users\marco\Desktop\Marco\GitHub\Entendendo Algoritmos\Introdução a algoritmos\Pesquisa Binaria\obj\Debug\net9.0\Pesquisa Binaria.dll
+C:\Users\marco\Desktop\Marco\GitHub\Entendendo Algoritmos\Introdução a algoritmos\Pesquisa Binaria\obj\Debug\net9.0\refint\Pesquisa Binaria.dll
+C:\Users\marco\Desktop\Marco\GitHub\Entendendo Algoritmos\Introdução a algoritmos\Pesquisa Binaria\obj\Debug\net9.0\Pesquisa Binaria.pdb
+C:\Users\marco\Desktop\Marco\GitHub\Entendendo Algoritmos\Introdução a algoritmos\Pesquisa Binaria\obj\Debug\net9.0\Pesquisa Binaria.genruntimeconfig.cache
+C:\Users\marco\Desktop\Marco\GitHub\Entendendo Algoritmos\Introdução a algoritmos\Pesquisa Binaria\obj\Debug\net9.0\ref\Pesquisa Binaria.dll
